@@ -1,3 +1,5 @@
+# this makes a plot
+#
 import numpy as np
 from  matplotlib import pyplot
 import os
